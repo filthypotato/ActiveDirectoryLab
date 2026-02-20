@@ -1,16 +1,3 @@
-﻿---
-title: "Building an Active Directory Homelab"
-date: 2026-02-18 14:00:00 -0800
-
-categories: [Homelab, Active Directory]
-tags: [Windows Server, AD, Cybersecurity]
-image:
-  path: "/assets/img/ad-banner.png"
-  alt: Active Directory Setup
-author: Tylor Romine
-by: Tylor Romine
----
-
 ## Introduction
 
 In this lab, I set up an Active Directory Domain Controller using Windows Server 2025 and connected a Windows 10 client to simulate a real-world enterprise environment.
