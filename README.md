@@ -1,7 +1,7 @@
 ## Introduction
 
 In this lab, I set up an Active Directory Domain Controller using Windows Server 2025 and connected a Windows 10 client to simulate a real-world enterprise environment.
-By us connecting a Windows 11 client machine, and then using a PowerShell script to generate over 1000 user account, allows us for
+By us connecting a Windows 10 client machine, and then using a PowerShell script to generate over 1000 user account, allows us for
 practical simulation and hand on learning with Active Directory, Group Policies, user management, and domain based configuration.
 
 This homelab allows me to practice:
@@ -15,7 +15,7 @@ This homelab allows me to practice:
 ## Network Overview
 
 - Windows Server (Domain Controller)
-- Windows 11 Client
+- Windows 10 Client
 - Internal NAT network
 - Static IP for DC
 - DNS pointed to DC
@@ -59,7 +59,7 @@ Then **log out** and log back
 ### Installations Files
 
  - [Windows Server 2025 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025)
- - [Windows 11 ISO](https://www.microsoft.com/en-us/software-download/windows11)
+ - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 
 ### Verify Virtualization Support
 
